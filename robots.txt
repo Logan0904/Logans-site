@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://logan0904.github.io/Logans-site/sitemap.xml
