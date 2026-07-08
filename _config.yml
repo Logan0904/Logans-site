@@ -10,6 +10,6 @@ plugins:
   - jekyll-sitemap
 show_excerpts: true
 author: Backup Power Guide
-url: ""
-baseurl: ""
+url: "https://logan0904.github.io"
+baseurl: "/Logans-site"
 permalink: /:year/:month/:day/:title/

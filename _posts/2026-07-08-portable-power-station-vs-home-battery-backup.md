@@ -40,6 +40,6 @@ One thing worth knowing: many portable power stations can be left plugged into t
 
 ## Bottom line
 
-If you own your home and want automatic, whole-home backup, a wired home battery system is the right category — but it's a different purchase entirely from anything on this site. If you rent, move periodically, or just want a flexible, no-installation option that covers the outages you're actually likely to face, a portable power station is the realistic choice, and picking the right capacity tier matters more than picking a specific brand. See our [portable power station buying guide](/2026/07/08/portable-power-station-buying-guide-for-renters/) for how to size one to your actual needs.
+If you own your home and want automatic, whole-home backup, a wired home battery system is the right category — but it's a different purchase entirely from anything on this site. If you rent, move periodically, or just want a flexible, no-installation option that covers the outages you're actually likely to face, a portable power station is the realistic choice, and picking the right capacity tier matters more than picking a specific brand. See our [portable power station buying guide](/Logans-site/2026/07/08/portable-power-station-buying-guide-for-renters/) for how to size one to your actual needs.
 
 - [Browse portable power stations on Amazon](https://www.amazon.com/s?k=portable+power+station&tag=AMZTAGPLACEHOLDER)

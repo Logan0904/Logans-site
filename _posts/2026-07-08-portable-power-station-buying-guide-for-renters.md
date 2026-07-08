@@ -52,4 +52,4 @@ Rather than picking one "best" model — which changes constantly as manufacture
 - [Browse 300-1000Wh portable power stations on Amazon](https://www.amazon.com/s?k=portable+power+station+500wh&tag=AMZTAGPLACEHOLDER)
 - [Browse 1000Wh+ portable power stations on Amazon](https://www.amazon.com/s?k=portable+power+station+1000wh&tag=AMZTAGPLACEHOLDER)
 
-We'll be publishing head-to-head comparisons of specific models in this weight/capacity range in upcoming posts — check back, or see our [full backup power comparison](/2026/07/08/portable-power-station-vs-home-battery-backup/) for how this category differs from fixed home battery systems.
+We'll be publishing head-to-head comparisons of specific models in this weight/capacity range in upcoming posts — check back, or see our [full backup power comparison](/Logans-site/2026/07/08/portable-power-station-vs-home-battery-backup/) for how this category differs from fixed home battery systems.
