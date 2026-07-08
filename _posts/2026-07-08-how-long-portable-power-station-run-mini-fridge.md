@@ -45,7 +45,7 @@ Door discipline matters more than people think during an actual outage. Every ti
 
 If the goal is just keeping the fridge cold overnight during a typical outage, 300-500 Wh is usually enough. Want a full day of fridge runtime with some margin to charge a few devices too? Plan for 500-800 Wh. Prepping for multi-day outages, or running other things off the same unit? That's where 1,000+ Wh starts to make sense. Our [portable power station buying guide](/Logans-site/2026/07/08/portable-power-station-buying-guide-for-renters/) covers how these tiers compare for other devices too.
 
-- [Browse portable power stations in the 300-700Wh range on Amazon](https://www.amazon.com/s?k=portable+power+station+500wh&tag=AMZTAGPLACEHOLDER)
-- [Browse energy monitors to check your specific fridge's real draw on Amazon](https://www.amazon.com/s?k=plug+in+energy+usage+monitor&tag=AMZTAGPLACEHOLDER)
+- [Browse portable power stations in the 300-700Wh range on Amazon](https://www.amazon.com/s?k=portable+power+station+500wh&tag=backuppowergu-20)
+- [Browse energy monitors to check your specific fridge's real draw on Amazon](https://www.amazon.com/s?k=plug+in+energy+usage+monitor&tag=backuppowergu-20)
 
 If you want a real number instead of an estimate, a $15-20 plug-in energy monitor will show your fridge's actual wattage and duty cycle over a day. Worth doing before sizing a power station around a guess.

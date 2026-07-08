@@ -79,8 +79,8 @@ Is a cellular hotspot a replacement for router battery backup? It's a good suppl
 
 <div>{% raw %}<!-- affiliate search links, tag to be added on Amazon Associates approval --> {% endraw %}</div>
 
-- [Browse compact portable power stations with pass-through/UPS charging on Amazon](https://www.amazon.com/s?k=portable+power+station+pass+through+charging+ups&tag=AMZTAGPLACEHOLDER)
-- [Browse dedicated mini UPS units for routers and modems on Amazon](https://www.amazon.com/s?k=mini+ups+battery+backup+router+modem&tag=AMZTAGPLACEHOLDER)
-- [Browse 300Wh-class portable power stations on Amazon](https://www.amazon.com/s?k=portable+power+station+300wh&tag=AMZTAGPLACEHOLDER)
+- [Browse compact portable power stations with pass-through/UPS charging on Amazon](https://www.amazon.com/s?k=portable+power+station+pass+through+charging+ups&tag=backuppowergu-20)
+- [Browse dedicated mini UPS units for routers and modems on Amazon](https://www.amazon.com/s?k=mini+ups+battery+backup+router+modem&tag=backuppowergu-20)
+- [Browse 300Wh-class portable power stations on Amazon](https://www.amazon.com/s?k=portable+power+station+300wh&tag=backuppowergu-20)
 
 Check your specific router and modem's wattage on the power adapter label before buying, and confirm any power station you're considering explicitly supports pass-through or UPS-style charging if you plan to leave your equipment connected permanently.

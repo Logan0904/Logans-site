@@ -53,8 +53,8 @@ There's no single "best" model here, since lineups shift every few months as man
 
 <div>{% raw %}<!-- affiliate search links, tag to be added on Amazon Associates approval --> {% endraw %}</div>
 
-- [Browse portable power stations under 300Wh on Amazon](https://www.amazon.com/s?k=portable+power+station+under+300wh&tag=AMZTAGPLACEHOLDER)
-- [Browse 300-1000Wh portable power stations on Amazon](https://www.amazon.com/s?k=portable+power+station+500wh&tag=AMZTAGPLACEHOLDER)
-- [Browse 1000Wh+ portable power stations on Amazon](https://www.amazon.com/s?k=portable+power+station+1000wh&tag=AMZTAGPLACEHOLDER)
+- [Browse portable power stations under 300Wh on Amazon](https://www.amazon.com/s?k=portable+power+station+under+300wh&tag=backuppowergu-20)
+- [Browse 300-1000Wh portable power stations on Amazon](https://www.amazon.com/s?k=portable+power+station+500wh&tag=backuppowergu-20)
+- [Browse 1000Wh+ portable power stations on Amazon](https://www.amazon.com/s?k=portable+power+station+1000wh&tag=backuppowergu-20)
 
 We'll be publishing head-to-head comparisons of specific models in this range soon. In the meantime, see our [comparison of portable power stations vs. home battery backup](/Logans-site/2026/07/08/portable-power-station-vs-home-battery-backup/) for how this category differs from a fixed system.

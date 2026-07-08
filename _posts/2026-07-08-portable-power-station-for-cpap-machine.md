@@ -69,8 +69,8 @@ How many nights should I plan for? Depends entirely on how long outages actually
 
 <div>{% raw %}<!-- affiliate search links, tag to be added on Amazon Associates approval --> {% endraw %}</div>
 
-- [Browse pure sine wave portable power stations in the 500-600Wh range on Amazon](https://www.amazon.com/s?k=pure+sine+wave+portable+power+station+500wh&tag=AMZTAGPLACEHOLDER)
-- [Browse 1000Wh-class portable power stations for CPAP and medical backup on Amazon](https://www.amazon.com/s?k=portable+power+station+1000wh+cpap&tag=AMZTAGPLACEHOLDER)
-- [Browse CPAP-specific DC battery packs on Amazon](https://www.amazon.com/s?k=cpap+battery+backup&tag=AMZTAGPLACEHOLDER)
+- [Browse pure sine wave portable power stations in the 500-600Wh range on Amazon](https://www.amazon.com/s?k=pure+sine+wave+portable+power+station+500wh&tag=backuppowergu-20)
+- [Browse 1000Wh-class portable power stations for CPAP and medical backup on Amazon](https://www.amazon.com/s?k=portable+power+station+1000wh+cpap&tag=backuppowergu-20)
+- [Browse CPAP-specific DC battery packs on Amazon](https://www.amazon.com/s?k=cpap+battery+backup&tag=backuppowergu-20)
 
 Verify your specific CPAP's wattage before buying (the label or power brick will have it, in watts or volts times amps), and confirm the listing states pure sine wave output outright.

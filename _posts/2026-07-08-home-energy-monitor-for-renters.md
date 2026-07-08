@@ -67,8 +67,8 @@ If you're monitoring usage to size a portable power station correctly, a smart p
 
 <div>{% raw %}<!-- affiliate search links, tag to be added on Amazon Associates approval --> {% endraw %}</div>
 
-- [Browse smart plugs with energy monitoring on Amazon](https://www.amazon.com/s?k=smart+plug+energy+monitoring&tag=AMZTAGPLACEHOLDER)
-- [Browse smart power strips with per-outlet monitoring on Amazon](https://www.amazon.com/s?k=smart+power+strip+energy+monitoring&tag=AMZTAGPLACEHOLDER)
-- [Browse non-invasive utility meter monitors on Amazon](https://www.amazon.com/s?k=utility+meter+energy+monitor&tag=AMZTAGPLACEHOLDER)
+- [Browse smart plugs with energy monitoring on Amazon](https://www.amazon.com/s?k=smart+plug+energy+monitoring&tag=backuppowergu-20)
+- [Browse smart power strips with per-outlet monitoring on Amazon](https://www.amazon.com/s?k=smart+power+strip+energy+monitoring&tag=backuppowergu-20)
+- [Browse non-invasive utility meter monitors on Amazon](https://www.amazon.com/s?k=utility+meter+energy+monitor&tag=backuppowergu-20)
 
 Check your utility's app or website first. A free option might already cover what you need before you spend anything on hardware.

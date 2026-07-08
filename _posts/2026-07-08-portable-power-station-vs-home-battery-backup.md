@@ -42,4 +42,4 @@ Here's something a lot of people don't realize: plenty of portable power station
 
 Want automatic, whole-home backup and you own the place? A wired home battery system is the right category, though it's a much bigger purchase than anything else on this site. Rent, move periodically, or just want something flexible with no installation? A portable power station is the realistic pick, and getting the capacity tier right matters more than which brand you go with. Our [portable power station buying guide](/Logans-site/2026/07/08/portable-power-station-buying-guide-for-renters/) walks through sizing one to your actual needs.
 
-- [Browse portable power stations on Amazon](https://www.amazon.com/s?k=portable+power+station&tag=AMZTAGPLACEHOLDER)
+- [Browse portable power stations on Amazon](https://www.amazon.com/s?k=portable+power+station&tag=backuppowergu-20)
