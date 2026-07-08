@@ -1,0 +1,15 @@
+title: Backup Power Guide
+description: >-
+  Independent buying guides and comparisons for portable power stations,
+  home battery backup, and energy monitoring — built for renters and small
+  households who can't install whole-home solar.
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+show_excerpts: true
+author: Backup Power Guide
+url: ""
+baseurl: ""
+permalink: /:year/:month/:day/:title/
